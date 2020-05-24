@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
--This was a simple app where i learnt using stateful widgets and why they are useful.I learned from **"Introduction to Flutter Development Using Dart"** by Angela.
+-This was a simple app where i learned using stateful widgets and why they are useful.I learned from **"Introduction to Flutter Development Using Dart"** by Angela.
 
 ## Getting Started
 
